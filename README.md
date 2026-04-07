@@ -8,6 +8,7 @@ Contents：
 ## Skills
 
 - [baoyu-skills](https://github.com/jimliu/baoyu-skills)
+- [khazix-skills](https://github.com/KKKKhazix/khazix-skills)
 
 ## 工具
 
