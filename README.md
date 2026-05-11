@@ -11,6 +11,7 @@ Contents：
 - [khazix-skills](https://github.com/KKKKhazix/khazix-skills)
 - [huashu-bookwriter](https://github.com/ZeroxZhang/huashu-bookwriter)
 - [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)
+- [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
 
 ## 工具
 
