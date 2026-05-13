@@ -17,3 +17,4 @@ Contents：
 
 - [TrendRadar](https://github.com/sansan0/TrendRadar)
 - [MD-to-Book](https://github.com/Turbo-AGI/md2book)
+- [AiToEarn](https://aitoearn.ai/zh-CN?role=creator) / [Github](https://github.com/yikart/AiToEarn)
