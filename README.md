@@ -20,3 +20,4 @@ Contents：
 - [MD-to-Book](https://github.com/Turbo-AGI/md2book)
 - [AiToEarn](https://aitoearn.ai/zh-CN?role=creator) / [Github](https://github.com/yikart/AiToEarn)
 - [wechat-download-api](https://github.com/tmwgsicp/wechat-download-api)
+- [wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter)
