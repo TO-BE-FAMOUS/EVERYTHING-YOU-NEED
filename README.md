@@ -13,6 +13,7 @@ Contents：
 - [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
 - [huashu-design](https://github.com/alchaincyf/huashu-design)
+- [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 ## 工具
 
