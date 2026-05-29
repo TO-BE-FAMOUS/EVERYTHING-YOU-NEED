@@ -15,6 +15,8 @@ Contents：
 - [huashu-design](https://github.com/alchaincyf/huashu-design)
 - [taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [Kami](https://github.com/tw93/Kami)
+- [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)
+- [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
 
 ## 工具
 
