@@ -17,6 +17,7 @@ Contents：
 - [Kami](https://github.com/tw93/Kami)
 - [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)
 - [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
+- [gsap-skills](https://github.com/greensock/gsap-skills)
 
 ## 工具
 
