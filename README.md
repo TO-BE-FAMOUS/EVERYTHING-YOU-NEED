@@ -18,6 +18,7 @@ Contents：
 - [guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)
 - [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
 - [gsap-skills](https://github.com/greensock/gsap-skills)
+- [html-video](https://github.com/nexu-io/html-video)
 
 ## 工具
 
