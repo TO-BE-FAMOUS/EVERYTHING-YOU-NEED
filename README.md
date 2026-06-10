@@ -19,6 +19,7 @@ Contents：
 - [GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill)
 - [gsap-skills](https://github.com/greensock/gsap-skills)
 - [html-video](https://github.com/nexu-io/html-video)
+- [zimeiti](https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/zimeiti)
 
 ## 工具
 
