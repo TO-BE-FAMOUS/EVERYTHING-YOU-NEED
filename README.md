@@ -20,6 +20,7 @@ Contents：
 - [gsap-skills](https://github.com/greensock/gsap-skills)
 - [html-video](https://github.com/nexu-io/html-video)
 - [zimeiti](https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/zimeiti)
+- [xhs-article-to-images](https://github.com/bozhouDev/xhs-article-to-images)
 
 ## 工具
 
