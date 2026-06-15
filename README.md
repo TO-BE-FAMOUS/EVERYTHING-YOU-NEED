@@ -21,6 +21,7 @@ Contents：
 - [html-video](https://github.com/nexu-io/html-video)
 - [zimeiti](https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/zimeiti)
 - [xhs-article-to-images](https://github.com/bozhouDev/xhs-article-to-images)
+- [pixel2motion](https://github.com/nolangz/pixel2motion)
 
 ## 工具
 
