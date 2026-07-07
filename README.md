@@ -22,6 +22,7 @@ Contents：
 - [zimeiti](https://github.com/momozi1996/awesome-ai-persona-skills/tree/main/zimeiti)
 - [xhs-article-to-images](https://github.com/bozhouDev/xhs-article-to-images)
 - [pixel2motion](https://github.com/nolangz/pixel2motion)
+- [gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)
 
 ## 工具
 
