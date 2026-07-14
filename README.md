@@ -23,6 +23,7 @@ Contents：
 - [xhs-article-to-images](https://github.com/bozhouDev/xhs-article-to-images)
 - [pixel2motion](https://github.com/nolangz/pixel2motion)
 - [gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)
+- [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 
 ## 工具
 
