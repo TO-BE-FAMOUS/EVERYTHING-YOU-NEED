@@ -24,6 +24,7 @@ Contents：
 - [pixel2motion](https://github.com/nolangz/pixel2motion)
 - [gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
+- [media-publish-check](https://github.com/XshuiAi/media-publish-check)
 
 ## 工具
 
