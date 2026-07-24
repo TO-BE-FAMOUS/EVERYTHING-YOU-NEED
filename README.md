@@ -26,6 +26,7 @@ Contents：
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 - [media-publish-check](https://github.com/XshuiAi/media-publish-check)
 - [liucong-skills](https://github.com/liucongg/liucong-skills)
+- [paper-cutout-layered-animation-skill](https://github.com/majiabin2020/paper-cutout-layered-animation-skill)
 
 ## 工具
 
