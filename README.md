@@ -39,3 +39,6 @@ Contents：
 - [Violin](https://github.com/shang-zhu/violin)
 - [Horizon](https://github.com/Thysrael/Horizon)
 - [x-viral-articles](https://youmind.com/zh-CN/landing/x-viral-articles)
+- [huasheng MD](https://editor.huasheng.ai/)
+- [WeMD](https://edit.wemd.app/)
+- [wxmp](https://wangchujiang.com/wxmp/#/?theme=underscore)
