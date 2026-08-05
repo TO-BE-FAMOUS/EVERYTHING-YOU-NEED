@@ -27,6 +27,7 @@ Contents：
 - [media-publish-check](https://github.com/XshuiAi/media-publish-check)
 - [liucong-skills](https://github.com/liucongg/liucong-skills)
 - [paper-cutout-layered-animation-skill](https://github.com/majiabin2020/paper-cutout-layered-animation-skill)
+- [human-writing](https://github.com/KKKKhazix/human-writing)
 
 ## 工具
 
