@@ -28,6 +28,7 @@ Contents：
 - [liucong-skills](https://github.com/liucongg/liucong-skills)
 - [paper-cutout-layered-animation-skill](https://github.com/majiabin2020/paper-cutout-layered-animation-skill)
 - [human-writing](https://github.com/KKKKhazix/human-writing)
+- [photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
 
 ## 工具
 
