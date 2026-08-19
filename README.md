@@ -30,6 +30,7 @@ Contents：
 - [human-writing](https://github.com/KKKKhazix/human-writing)
 - [photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
 - [xiaomu_x_creator](https://github.com/JayceHuang/xiaomu_x_creator)
+- [ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
 
 ## 工具
 
