@@ -32,6 +32,7 @@ Contents：
 - [xiaomu_x_creator](https://github.com/JayceHuang/xiaomu_x_creator)
 - [ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
 - [creator-buddy](https://github.com/SpaceZephyr/creator-buddy/tree/main/xhs-Skills)
+- [anything2explainer](https://github.com/Vincentwei1021/anything2explainer)
 
 ## 工具
 
