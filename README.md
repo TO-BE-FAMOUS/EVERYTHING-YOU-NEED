@@ -34,6 +34,7 @@ Contents：
 - [creator-buddy](https://github.com/SpaceZephyr/creator-buddy/tree/main/xhs-Skills)
 - [anything2explainer](https://github.com/Vincentwei1021/anything2explainer)
 - [handraw-style](https://github.com/yang0/handraw-style)
+- [livecanvas](https://github.com/pengchujin/livecanvas)
 
 ## 工具
 
