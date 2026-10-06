@@ -35,6 +35,7 @@ Contents：
 - [anything2explainer](https://github.com/Vincentwei1021/anything2explainer)
 - [handraw-style](https://github.com/yang0/handraw-style)
 - [livecanvas](https://github.com/pengchujin/livecanvas)
+- [native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image)
 
 ## 工具
 
