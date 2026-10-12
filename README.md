@@ -37,6 +37,7 @@ Contents：
 - [livecanvas](https://github.com/pengchujin/livecanvas)
 - [native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image)
 - [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
+- [anatomy](https://github.com/wheresryan22/anatomy)
 
 ## 工具
 
